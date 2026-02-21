@@ -47,5 +47,3 @@ Contributions are welcome! If you have suggestions or find any issues, please op
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-You can use this content as a starting point and customize it further according to your needs.
